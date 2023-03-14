@@ -8,6 +8,6 @@ public class TriangleSidesValidator {
         System.out.println("this is a valid triangle"); else
         if (thirdSide*thirdSide == firstSide*firstSide + secondSide*secondSide)
         System.out.println("this is a valid triangle");
-        else System.out.println("it's not triangle");
+        else System.out.println("it's not a triangle");
     }
 }
